@@ -5,7 +5,7 @@
 }
 
 a:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 body {
@@ -38,6 +38,6 @@ img {
 }
 
 button {
-	font: inherit;
+  font: inherit;
   all: initial;
 }
