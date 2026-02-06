@@ -70,11 +70,8 @@ header {
   background-repeat: no-repeat;
   background-position: right center;
   background-size: cover;
-}
-
-.cover {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 .overlay {

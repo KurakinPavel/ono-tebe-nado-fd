@@ -39,8 +39,5 @@ img {
 
 button {
   all: initial;
-}
-
-button {
-  font: inherit;
+	font: inherit;
 }
