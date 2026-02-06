@@ -38,6 +38,6 @@ img {
 }
 
 button {
+	all: initial;
   font: inherit;
-  all: initial;
 }
