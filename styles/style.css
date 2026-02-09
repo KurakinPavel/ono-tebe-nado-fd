@@ -7,8 +7,8 @@
 
 .header__links-list {
 	display: flex;
-	max-width: 389px;
 	justify-content: space-between;
+	max-width: 389px;
 	text-underline-offset: 3px;
 }
 
@@ -39,9 +39,9 @@
 }
 
 .header__logo-image {
+	display: block;
 	width: 148px;
 	height: 105px;
-	display: block;
 	object-fit: scale-down;
 }
 
@@ -58,8 +58,8 @@
 	font-size: 18px;
 	font-style: normal;
 	line-height: 24px;
-	text-underline-offset: 3px;
 	text-decoration-thickness: 1px;
+	text-underline-offset: 3px;
 }
 
 .social {
@@ -214,8 +214,8 @@
 	font-size: 22px;
 	text-decoration: underline;
 	text-decoration-style: solid;
-	text-underline-offset: 3px;
 	text-decoration-thickness: 1px;
+	text-underline-offset: 3px;
 	text-transform: uppercase;
 }
 
