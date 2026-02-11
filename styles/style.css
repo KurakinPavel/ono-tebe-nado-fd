@@ -28,7 +28,11 @@
 	font-size: 18px;
 }
 
-.header__link_active:hover {
+.header__link:hover {
+	text-decoration: none;
+}
+
+.header__link_active {
 	text-decoration: none;
 }
 
@@ -241,7 +245,7 @@
 	text-underline-offset: 4px;
 }
 
-.lots__look-more-link_active:hover {
+.lots__look-more-link:hover {
 	text-decoration: none;
 }
 
@@ -319,7 +323,11 @@
 	list-style: none;
 }
 
-.footer__menu-link_active:hover {
+.footer__menu-link:hover {
+	text-decoration: none;
+}
+
+.footer__menu-link_active {
 	text-decoration: none;
 }
 
